@@ -1,0 +1,133 @@
+body {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.container {
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.header {
+  height: 38px;
+  background: #313131;
+  color: #fff;
+  width: 1400px;
+  display: flex;
+  justify-content: space-between;
+}
+.span {
+  margin-left: 30px;
+}
+
+.phone {
+  margin-left: 620px;
+}
+.delivery {
+  margin-left: 30px;
+}
+.phone img {
+  padding-right: 10px;
+  padding-top: 5px;
+  /* display:inline; */
+}
+
+.delivery img {
+  padding-right: 10px;
+  margin-top: 5px;
+  display: inline;
+}
+.block-one {
+  height: 670px;
+  margin-top: 20px;
+}
+.block-one-one {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.block-one-one input {
+  width: 839px;
+  height: 50px;
+}
+
+.block-two {
+  width: 1140px;
+  height: 70px;
+  margin-top: 20px;
+  padding-top: 35px;
+  background: #ffffff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.07);
+}
+.item {
+  margin-left: 50px;
+}
+.block-three {
+  margin-top: 30px;
+}
+/* block2 */
+.block-content {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 150px;
+  padding-top: 100px;
+}
+.block-content-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #414141;
+}
+.items {
+  width: 263px;
+  height: 400px;
+  background-color: #ffffff;
+  padding: 50px 0 0 20px;
+}
+.special-items {
+  display: flex;
+  justify-content: space-between;
+  width: 175px;
+}
+.items-title-two {
+  font-family: "Roboto", sans-serif;
+  /* font-style: normal;
+  font-weight: normal; */
+  font-size: 9px;
+  line-height: 11px;
+  color: #c4c4c4;
+}
+.items-num {
+  font-family: "Roboto", sans-serif;
+  font-size: 9px;
+  line-height: 11px;
+  color: #414141;
+}
+.items img {
+  padding-bottom: 54px;
+}
+.special {
+  background: #ffffff;
+  box-shadow: 0px 1px 9px rgba(0, 0, 0, 0.11);
+  width: 235px;
+  margin-right: 30px;
+  height: 430px;
+}
+.items button {
+  width: 223px;
+  height: 40px;
+  background: #245462;
+  color:#ffffff;
+  border-color: #245462;
+  margin-top:17px;
+}
+.content-title {
+  font-family: "Roboto", sans-serif;
+  font-size: 11px;
+  line-height: 13px;
+  color: #414141;
+  /* top: -10px; */
+}
